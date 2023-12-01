@@ -1,8 +1,8 @@
 ### 0x05. AirBnB clone - RESTful API
  - This code base has been Forked. 
  - The intention is to prodvide a restful API with Flask and Python
- - Authors: Magdaline Njuguna &
-   	    Jeniffer Muirura
+ - Authors: Magdaline Njuguna of https://www.sfmkenya.com/
+   	    Jeniffer Mairura of email mjenna303@gmail.com
  - Weight of project 2
 
 # AirBnB Clone - The Console
